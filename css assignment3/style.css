@@ -1,0 +1,600 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+header {
+  background-color: #ffffff;
+  width: 100%;
+  height: 250px;
+}
+
+
+#here {
+  background-image: url(./istockphoto-916575452-612x612.jpg);
+  background-size: cover;
+  height: 900px;
+  display: flex;
+  /* justify-content: flex-start; */
+  align-items: center;
+  color: #ffffff;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 70px;
+  margin-top: 10px;
+  padding-left: 100px;
+
+
+}
+
+.container {
+  display: flex;
+  padding: 30px;
+  align-items: center;
+
+}
+
+.butt {
+  width: 220px;
+  border-radius: 50px;
+  padding-left: 39px;
+  height: 70px;
+  text-align: justify;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  font-weight: bolder;
+  background-color: rgb(140, 214, 214);
+  font-family: 'Times New Roman', Times, serif;
+  border: 1px solid rgb(140, 214, 214);
+}
+.butt:hover{
+  background-color: pink;
+  color: blue;
+}
+
+.img {
+  height: 150px;
+  padding-left: 40px;
+
+}
+
+.a {
+  padding-left: 40px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.a-links {
+  font-size: 25px;
+  text-decoration: none;
+  color: rgb(95, 93, 93);
+  margin-left: 20px;
+}
+
+.icon {
+  padding-left: 70px;
+
+}
+
+.ic {
+  height: 30px;
+
+
+}
+
+.but {
+  padding-left: 85px;
+
+}
+
+.p {
+  font-size: 40px;
+  font-style: initial;
+}
+
+.but1 {
+  margin-top: 60px;
+
+}
+
+.butt2 {
+  width: 250px;
+  border-radius: 38px;
+  padding-left: 40px;
+  height: 70px;
+  text-align: justify;
+  font-size: 28px;
+  color: #ffffff;
+  font-weight: bolder;
+  background-color: rgb(140, 214, 214);
+  font-family: 'Times New Roman', Times, serif;
+  border: 1px solid rgb(140, 214, 214);
+}
+.butt2:hover{
+  background-color: purple;
+  color: skyblue;
+}
+
+#bord {
+  background-size: cover;
+  background-image: url(./bakery4-5-1200x800.jpg);
+  width: 100%;
+  height: 900px;
+}
+
+.hed {
+  text-align: center;
+  margin-top: 18%;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 75px;
+  color: #4b4342;
+  font-weight: bold;
+}
+
+.main {
+  margin-top: 150px;
+}
+
+.one {
+  display: inline-block;
+  padding: 60px;
+}
+
+.imge {
+  margin-top: 75px;
+  width: 220px;
+  height: 170px;
+  border-radius: 10px;
+
+}
+
+.u {
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  color: #4b4342;
+  font-weight: bold;
+}
+
+#herw {
+  background-image: url(./bakery12-3-1200x800.jpg);
+  position: relative;
+  height: 870px;
+  width: 100%;
+  z-index: 1;
+}
+
+
+.topp {
+  background-color: skyblue;
+  display: block;
+  position: absolute;
+  height: 870px;
+  width: 100%;
+ 
+  position: absolute;
+  z-index: 2;
+  
+
+}
+
+.cake {
+  height: 15%;
+  width: 10%;
+  padding-left: 45%;
+  padding-top: 15%;
+}
+
+.top2 {
+  margin-top: 10%;
+  border: 2.5px solid white;
+  width: 860px;
+  height: 650px;
+  margin-left: 18%;
+  border-radius: 15px;
+
+
+}
+
+.hd {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 38px;
+  margin-top: 50px;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+
+.ps {
+  color: rgb(255, 255, 255);
+  margin-top: 0px;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.pr {
+  margin-top: 50px;
+  
+}
+
+.bud {
+  height: 70px;
+  width: 190px;
+  background-color: skyblue;
+  margin-top: 40px;
+  border-radius: 50px;
+  border: 1px solid skyblue;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  color: #ffffff;
+  border: 2px solid white;
+  font-weight: bolder;
+}
+.bud:hover{
+  color: rgb(211, 51, 78);
+}
+
+.onne {
+  background-color: rgb(255, 255, 255);
+  height: 800px;
+  width: 100%;
+}
+
+.t2 {
+  text-align: center;
+  margin-top: 5%;
+  font-weight: bold;
+  font-size: 45px;
+  font-family: 'Times New Roman', Times, serif;
+  color: #4b4342;
+}
+.t2:hover{
+  color: rgb(225, 76, 101);
+}
+
+.c1 {
+  margin-top: 90px;
+}
+
+.ch1 {
+  padding: 5px;
+  display: inline;
+  color: rgb(241, 109, 131);
+}
+
+.img3 {
+  height: 150px;
+  width: 230px;
+  border-radius: 15px;
+
+}
+
+.cake2 {
+  padding-left: 630px;
+  margin-top: 10%;
+}
+
+.cak2 {
+  height: 15%;
+  width: 15%;
+}
+
+.backg {
+  background-image: url(./bakery24-1-1200x800.jpg);
+  height: 820px;
+  width: 100%;
+}
+
+.owner {
+  background-color: #eeeeee;
+  height: 820px;
+  width: 100%;
+}
+
+.btck {
+  margin-left: 47%;
+
+}
+
+.ck1 {
+  height: 15%;
+  width: 15%;
+  margin-top: 10%;
+}
+
+.h1 {
+  text-align: center;
+  font-size: 45px;
+  font-weight: bolder;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 50px;
+  color: #4b4342;
+
+}
+
+.h3 {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 35px;
+  color: #4b4342;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.p6 {
+  font-size: 26px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  color: #4b4342;
+  margin-top: 10px;
+
+}
+
+.ball {
+  height: 120px;
+  width: 120px;
+  border-radius: 100px;
+  margin-left: 45%;
+  margin-top: 50px;
+}
+
+.hh2 {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 20px;
+  margin-top: 15px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.one1 {
+  background-image: url(./bakery26-1200x800.jpg);
+  background-size: cover;
+  width: 100%;
+}
+
+.two2 {
+  background-color: rgb(217, 110, 128);
+  height: 800px;
+  width: 100%;
+}
+
+.three3 {
+  text-align: center;
+  color: #ffffff;
+  padding: 70px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 70px;
+}
+
+.four4 {
+  height: 7%;
+  width: 7%;
+  border-radius: 100px;
+  margin-left: 130px;
+}
+
+.five5 {
+  display: inline;
+
+}
+
+.u1 {
+  margin-left: 23%;
+  margin-top: -8%;
+  font-size: 21px;
+  font-family: 'Times New Roman', Times, serif;
+  color: #ffffff;
+}
+
+.u2 {
+  margin-left: 23%;
+  margin-top: 2%;
+  color: #ffffff;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.u3 {
+  margin-left: 23%;
+  margin-top: 1%;
+  font-size: 20px;
+  color: #ebeaed;
+}
+
+.six6 {
+  height: 7%;
+  width: 7%;
+  border-radius: 100px;
+  margin-left: 38%;
+  margin-top: -80%;
+
+}
+
+.seven7 {
+  margin-top: 7%;
+  margin-right: 50%;
+}
+
+.eight8 {
+  height: 7%;
+  width: 7%;
+  border-radius: 100px;
+  margin-left: 130px;
+  margin-top: 40px;
+}
+
+.nine9 {
+  height: 7%;
+  width: 7%;
+  border-radius: 100px;
+  margin-left: 38%;
+}
+
+.ten10 {
+  height: 1600px;
+  width: 100%; 
+   margin-top: 100px;
+}
+
+.c11 {
+
+  font-size: 70px;
+  margin-left: 40px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.c11:hover{
+  color: gray;
+}
+
+.sir {
+
+  margin-top: -90%;
+
+
+}
+
+.table1 {
+  margin-left: 5%;
+  color: #919dab;
+  font-size: 40px;
+  margin-top: -1%;
+}
+
+.table2 {
+  margin-left: 27%;
+  margin-top: -85.5%;
+  color: #919dab;
+  font-size: 40px;
+}
+
+.table3 {
+  margin-top: -84.5%;
+  margin-left: 45%;
+  color: #919dab;
+  font-size: 40px;
+}
+
+.won {
+  border-top: 1px solid black;
+  width: 50%;
+}
+
+.app {
+  color: #4b4342;
+  font-size: 20px;
+  padding: 25px;
+  text-align: start;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.lft1{
+  background-color: #f3f2f4;
+  width: 30%;
+  height: 120%;
+  margin-left: 68%;
+margin-top: -85%;
+}
+.n1{
+  color: #5fcac7;
+  margin-left: 46px;
+  font-size: 25px;
+  font-style: oblique;
+}
+.l1{
+ 
+  text-align: center;
+font-size: 35px;
+font-style: oblique;
+color: #4b4342;
+}
+.l2{
+  margin-top: 25px;
+  text-align: center;
+  font-size: 25px;
+  color:#5fcac7 ;
+  font-style: oblique;
+}
+.l3{
+  margin-left: 45px;
+  color:#5fcac7 ;
+  font-style: oblique;
+  font-size: 25px;
+}
+.l4{
+  margin-left: 45px;
+  color:#5fcac7 ;
+  font-style: oblique;
+  font-size: 25px;
+}
+.hed1{
+margin-top: 100%;
+background-image: url(./bakery3-2-1200x800.jpg);
+width: 100%;
+height: 800px;
+}
+.hed2{
+  
+height: 800px;
+width: 100%;
+  background-color: #919dab;
+}
+.class3{
+font-size: 65px;
+color: #ffffff;
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.clas4{
+  margin-top: -40%;
+ margin-left: 25%;
+
+ 
+}
+.input{
+  height: 50px;
+  width: 40%;
+  border-radius: 50px;
+  font-size: 20px;
+  padding: 15px;
+  border: 1px solid white;
+  background-image: url(./bakery3-2-1200x800.jpg);
+  color: white;
+}
+.bu1{
+
+  width: 55%;
+  border-radius: 50px;
+  padding-left: 15%;
+  height: 80px;
+  text-align: justify;
+  font-size: 25px;
+  color: rgb(255, 255, 255);
+  font-weight: bolder;
+  background-color: rgb(101, 199, 199);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border: 1px solid rgb(140, 214, 214);
+}
+.u2{
+  margin-left: 50%;
+  margin-top: -9%;
+}
+.U3{
+margin-top: 8%;
+
+margin-left: 32%;
+}
+.U4{
+color: #ffffff;
+font-size: 25PX;
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+letter-spacing: 2PX;
+}
+
+.imm{
+  
+  margin-left: 47%;
+  display: inline;
+  
+}
+.imm>img{
+  height: 4%;
+  width: 4%;
+  padding: 5px;
+}
