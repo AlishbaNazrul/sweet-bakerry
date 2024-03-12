@@ -49,7 +49,7 @@ header {
 }
 .butt:hover{
   background-color: pink;
-  color: blue;
+  color: rgb(91, 154, 180);
 }
 
 .img {
@@ -59,7 +59,7 @@ header {
 }
 
 .a {
-  padding-left: 40px;
+  padding-left: 70px;
   font-family: 'Times New Roman', Times, serif;
 }
 
@@ -71,18 +71,18 @@ header {
 }
 
 .icon {
-  padding-left: 70px;
+  padding-left: 100px;
 
 }
 
 .ic {
-  height: 30px;
-
+  height: 25px;
+gap: 10px;
 
 }
 
 .but {
-  padding-left: 85px;
+  padding-left: 120px;
 
 }
 
@@ -377,18 +377,18 @@ header {
 
 .u1 {
   margin-left: 23%;
-  margin-top: -8%;
+  margin-top: -6%;
   font-size: 21px;
   font-family: 'Times New Roman', Times, serif;
   color: #ffffff;
 }
 
-.u2 {
-  margin-left: 23%;
-  margin-top: 2%;
-  color: #ffffff;
+.up {
+  margin-top: 1.5%;
+ margin-left: 23%;
   font-size: 23px;
   font-weight: bold;
+  color:#ffffff;
 }
 
 .u3 {
@@ -408,17 +408,48 @@ header {
 }
 
 .seven7 {
-  margin-top: 7%;
-  margin-right: 50%;
+  margin-top: 4%;
+  margin-left: 7%;
+}
+.uv{
+color: #ffffff;
+font-size: 21px;
+}
+.ux{
+color: #ffffff;
+font-size: 24;
+margin-top: 2%;
+}
+.uy{
+color: #ebeaed;
+font-size: 20;
+margin-top: 1%;
 }
 
 .eight8 {
   height: 7%;
   width: 7%;
   border-radius: 100px;
-  margin-left: 130px;
-  margin-top: 40px;
+  margin-left: 20%;
+  margin-top:-10px;
 }
+.u5{
+color: #ffffff;
+margin-left: 30%;
+margin-top: -6%;
+}
+.u6{
+color: #ffffff;
+margin-left: 30%;
+margin-top: 2%;
+}
+.u7{
+  margin-left: 30%;
+  margin-top: 1%;
+color: #ebeaed;
+
+}
+
 
 .nine9 {
   height: 7%;
@@ -570,6 +601,10 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   border: 1px solid rgb(140, 214, 214);
 }
+.bu1:hover{
+color: rgb(232, 44, 75);
+
+}
 .u2{
   margin-left: 50%;
   margin-top: -9%;
@@ -597,4 +632,51 @@ letter-spacing: 2PX;
   height: 4%;
   width: 4%;
   padding: 5px;
+}
+.item1{
+width: 100%;
+height: 350px;
+background-color: #202020;
+margin-top: 130px;
+
+}
+.itm2{
+
+
+}
+.itm2>p{
+color: #ffffff;
+font-size: 25px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.i3{
+  padding: 9%;
+}
+.i4{
+  display: flex;
+  margin-left: 24%;
+  margin-top: -11.1%;
+}
+.i5{
+  display: flex;
+  margin-left: 9%;
+  margin-top: 20px;
+}
+.i6{
+margin-top: -5%;
+  margin-left: 80%;
+}
+.i7{
+  margin-left: 50%;
+}
+.i7>img{
+height: 100px;
+
+}
+.i8{
+  color: #f3f2f4;
+margin-left: -25%;
+margin-top: 10px;
+font-size: 20px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
